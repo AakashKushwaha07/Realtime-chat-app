@@ -1,0 +1,8 @@
+**/node_modules
+**/build
+**/.env
+**/target
+**/uploads
+.git
+.gitignore
+README.md
