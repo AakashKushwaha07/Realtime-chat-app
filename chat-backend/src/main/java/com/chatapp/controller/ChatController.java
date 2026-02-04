@@ -40,7 +40,7 @@ import com.chatapp.service.EmailService;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = {"http://localhost:3000","https://realtime-chat-app-rea3.onrender.com/"})
+@CrossOrigin(origins = {"http://localhost:3000","https://realtime-chat-app-rea3.onrender.com"})
 public class ChatController {
 
     private final UserRepository userRepo;
